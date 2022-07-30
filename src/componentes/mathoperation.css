@@ -14,10 +14,10 @@
 .box-style {
  
     justify-content: center;
-display: flex;
-width: 90%;
-flex-wrap: wrap;
-gap: 12px;
+    display: flex;
+    width: 90%;
+    flex-wrap: wrap;
+    gap: 12px;
 
 }
 .button {

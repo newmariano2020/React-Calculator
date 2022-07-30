@@ -26,7 +26,7 @@ let inicializationTrigger = true;
 
     let condicional;
 
-    if (selection === '+' && inicializationTrigger == true) {
+    if (selection === '+' && inicializationTrigger === true) {
         condicional = <Add number1={number1} number2={number2} />
         inicializationTrigger = false  
     }
